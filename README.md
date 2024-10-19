@@ -1,3 +1,0 @@
-# PicGoService
-
-#### PicGo图床
